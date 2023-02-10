@@ -1,0 +1,12 @@
+C:\Users\Torre\Documents\Coding\C#\reflection_demo\Reflection_NameShow\bin\Debug\net6.0\Reflection_NameShow.deps.json
+C:\Users\Torre\Documents\Coding\C#\reflection_demo\Reflection_NameShow\bin\Debug\net6.0\Reflection_NameShow.dll
+C:\Users\Torre\Documents\Coding\C#\reflection_demo\Reflection_NameShow\bin\Debug\net6.0\Reflection_NameShow.pdb
+C:\Users\Torre\Documents\Coding\C#\reflection_demo\Reflection_NameShow\obj\Debug\net6.0\Reflection_NameShow.csproj.AssemblyReference.cache
+C:\Users\Torre\Documents\Coding\C#\reflection_demo\Reflection_NameShow\obj\Debug\net6.0\Reflection_NameShow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Torre\Documents\Coding\C#\reflection_demo\Reflection_NameShow\obj\Debug\net6.0\Reflection_NameShow.AssemblyInfoInputs.cache
+C:\Users\Torre\Documents\Coding\C#\reflection_demo\Reflection_NameShow\obj\Debug\net6.0\Reflection_NameShow.AssemblyInfo.cs
+C:\Users\Torre\Documents\Coding\C#\reflection_demo\Reflection_NameShow\obj\Debug\net6.0\Reflection_NameShow.csproj.CoreCompileInputs.cache
+C:\Users\Torre\Documents\Coding\C#\reflection_demo\Reflection_NameShow\obj\Debug\net6.0\Reflection_NameShow.dll
+C:\Users\Torre\Documents\Coding\C#\reflection_demo\Reflection_NameShow\obj\Debug\net6.0\refint\Reflection_NameShow.dll
+C:\Users\Torre\Documents\Coding\C#\reflection_demo\Reflection_NameShow\obj\Debug\net6.0\Reflection_NameShow.pdb
+C:\Users\Torre\Documents\Coding\C#\reflection_demo\Reflection_NameShow\obj\Debug\net6.0\ref\Reflection_NameShow.dll
